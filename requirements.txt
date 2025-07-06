@@ -1,0 +1,7 @@
+streamlit>=1.30.0
+opencv-python-headless
+numpy
+mediapipe
+pandas
+plotly
+pyttsx3
